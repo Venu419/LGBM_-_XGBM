@@ -40,5 +40,3 @@ The dataset used for this project is the **Titanic dataset**, which contains pas
 - 🎯 Key findings and model performance metrics are visualized.
 - 🔬 Insights into how each model handles feature importance and prediction accuracy.
 
-## 👨‍💻 Author
-- *P. Venu Krishna Chaitanya*
